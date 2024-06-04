@@ -15,5 +15,3 @@
 <img align="center" alt="[img JAVASCRIPT]" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-#### Ir Além do Medo.
-
